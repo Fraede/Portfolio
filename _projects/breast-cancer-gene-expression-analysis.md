@@ -46,6 +46,13 @@ Working with genomic datasets provided experience handling large biological data
 - Statistical reasoning
 - Scientific computing with Python
 
+## Full Report
+
+For a detailed description of the methods, analysis, results, and references, see the full report below.
+
+[Download Full Project Report]({{ site.baseurl }}/assets/reports/Breast_Cancer_Gene_Expression_Report.pdf)
+
+
 ## Repository
 
 [View the GitHub Repository](https://github.com/Fraede/Breast-cancer-gene-expression-analysis)
