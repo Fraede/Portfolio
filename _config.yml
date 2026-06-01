@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Fareed Dubiure
 description              : Fareed Dubiure - Projects and CV 
-baseurl                  : "/sp26-portfolio-Fraede/"
+url                      : "https://fraede.github.io"
+baseurl                  : "/Portfolio"
 
 # Theme and Style
 theme: jekyll-theme-minimal
