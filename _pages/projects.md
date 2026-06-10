@@ -1,13 +1,8 @@
-\---
-
+---
 layout: default
-
 title: Fareed Dubiure - Portfolio
-
 permalink: /projects/
-
-\---
-
+---
 
 
 <div class="gallery-container">
