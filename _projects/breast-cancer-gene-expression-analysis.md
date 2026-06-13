@@ -1,10 +1,11 @@
 ---
 layout: project
 title: Breast Cancer Gene Expression Analysis
+collection: projects
+permalink: /projects/breast-cancer-gene-expression-analysis/
 description: Analysis of breast cancer gene expression data using bioinformatics and statistical methods to identify biologically meaningful expression patterns.
 image: /assets/images/breast-cancer-project_volcano_plot.png
 ---
-
 ## Project Overview
 
 This project explores breast cancer gene expression data to investigate how genetic and clinical variables relate to patient outcomes. The analysis focuses on identifying patterns within high-dimensional biological datasets and using data visualization techniques to better understand relationships between gene expression profiles and clinical characteristics.
