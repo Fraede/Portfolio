@@ -126,6 +126,37 @@ a:hover { text-decoration: underline; }
   margin: 12px 0;
 }
 
+.content h4 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  margin: 32px 0 12px;
+}
+
+.content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 24px 0;
+}
+
+.content ul { padding-left: 20px; margin: 0 0 16px; }
+.content li { color: var(--text-secondary); margin-bottom: 6px; }
+.content strong { color: var(--text-primary); }
+
+.btn-download {
+  display: inline-block;
+  background: var(--accent-bg);
+  color: var(--accent-text) !important;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: 500;
+  text-decoration: none !important;
+  margin: 8px 0 16px;
+}
+.btn-download:hover { background: var(--accent); color: #fff !important; }
+
 .footer {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;
