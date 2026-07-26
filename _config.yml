@@ -4,8 +4,6 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
-
 # Site Settings
 locale                   : "en-US"
 title                    : Fareed Dubiure
@@ -15,32 +13,31 @@ name                     : Fareed Dubiure
 description              : Fareed Dubiure - Projects and CV 
 url                      : "https://fraede.github.io"
 baseurl                  : "/Portfolio"
-
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: aqua # light/default, dark, or aqua
-
 sass:
   style: compressed
-
 # Outputting
 permalink: /:categories/:title/
-
 collections:
   pages:
     output: true
   projects:
     output: true
     permalink: /:collection/:path/
-
 # Markdown
 markdown: kramdown
 kramdown:
   input: GFM
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
+# Exclude from processing
+# These files are not meant to be part of the built site, but Jekyll still
+# scans them for Liquid syntax by default -- excluding avoids build errors
+# from things like README.md containing unrelated Liquid-like text.
+exclude:
+  - README.md
