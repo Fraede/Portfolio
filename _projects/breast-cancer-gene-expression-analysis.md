@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Breast Cancer Gene Expression Analysis"
 collection: projects
 permalink: /projects/breast-cancer-gene-expression-analysis/
