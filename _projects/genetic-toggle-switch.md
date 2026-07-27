@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Genetic Toggle Switch Simulation"
 collection: projects
 permalink: /projects/genetic-toggle-switch/
